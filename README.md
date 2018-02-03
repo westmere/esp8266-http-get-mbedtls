@@ -2,6 +2,8 @@
 
 git clone --recursive https://github.com/westmere/esp8266-http-get-mbedtls.git
 
+cd esp8266-http-get-mbedtls
+
 mkdir build
 
 cd build
