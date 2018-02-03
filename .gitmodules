@@ -1,0 +1,15 @@
+[submodule "mbedtls-cmake"]
+	path = mbedtls-cmake
+	url = https://github.com/westmere/mbedtls-cmake.git
+[submodule "ESP8266_RTOS_SDK"]
+	path = ESP8266_RTOS_SDK
+	url = https://github.com/espressif/ESP8266_RTOS_SDK.git
+[submodule "esp8266-cmake"]
+	path = esp8266-cmake
+	url = https://github.com/westmere/esp8266-cmake.git
+[submodule "esptool"]
+	path = esptool
+	url = https://github.com/espressif/esptool.git
+[submodule "xtensa-lx106-elf"]
+	path = xtensa-lx106-elf
+	url = https://github.com/westmere/xtensa-lx106-elf.git
